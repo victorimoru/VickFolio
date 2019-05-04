@@ -1,0 +1,38 @@
+  h1 {
+    color: #1d1d1d;;
+    
+  }
+
+  body {
+    font-family:  "Lato", sans-serif;
+  }
+  .mySlides {
+    display: none
+  }
+  .w3-metro-dark-red {
+    color: #bb244c;
+  }
+
+  .w3-text-metro-dark-red {
+    color: #bb244c;
+  }
+
+
+  .w3-hover-my-black {
+    background-color: #1d1d1d;
+
+  }
+
+  .w3-hover-grey:hover, .w3-gray, .w3-hover-gray:hover, .w3-button:hover {
+    color: white!important;
+    background-color: #bb244c!important;
+  }
+
+  .w3-button {
+    background-color: #2c3e50;
+    color: white;
+  }
+
+.w3-text-midnight { color: #2c3e50}
+.w3-text-vanilla {color: #F3E0BE}
+.w3-camo { background-color: #577284 }
